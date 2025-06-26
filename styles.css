@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+html{
+  scroll-behaviour:smooth;
+}
+
 :root {
   /* TEXT COLORS  */
   --primary-color: #ff9500;
